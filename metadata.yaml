@@ -8,6 +8,9 @@ contributor:
     deathdate: 1912
     gutenberg_agent_id: '31450'
     url: http://www.gutenberg.org/2009/agents/31450
+covers:
+- cover_type: archival
+  image_path: 68833-h/images/cover.jpg
 creator:
   author:
     agent_name: Diaz, Abby Morton
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2166
     wikipedia: https://en.wikipedia.org/wiki/Abby_Morton_Diaz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68833#The-entertaining-story-of-King-Bronde-his-Lily-and-his-Rosebud
 gutenberg_issued: '2022-08-25'
 identifiers:
   gutenberg: '68833'
